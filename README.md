@@ -1,2 +1,8 @@
 # BIT4138-Cryptography
 Advanced cryptography github repo for work and assignments
+
+ADMISSION NUMBER: BSCCS/2024/54678
+NAME : ELVIS WAMBUGU
+COURSE: COMPUTER SCIENCE
+UNIT TITLE:ADVANCED CRYPTOGRAPHY
+UNIT CODE: 
